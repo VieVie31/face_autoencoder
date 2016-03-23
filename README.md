@@ -42,6 +42,8 @@ Look at those samples :
 ![sample female generation](sample.png "Sample female portrait generation")
 ![sample man generation](sample3.png "Sample man portrait generation")
 ![other sample generated](sample2.png "Other sample generated...")
+![sample4](sample4.png "sample4")
+![sample5](sample5.png "sample5")
 
 Pretty cool :smiley: !! no ?
 
