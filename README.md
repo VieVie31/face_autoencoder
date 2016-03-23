@@ -39,11 +39,12 @@ images into a portrait face shape...
 
 Look at those samples :
 
-![sample female generation](sample.png "Sample female portrait generation")
-![sample man generation](sample3.png "Sample man portrait generation")
-![other sample generated](sample2.png "Other sample generated...")
-![sample4](sample4.png "sample4")
-![sample5](sample5.png "sample5")
+![sample female generation](img/sample.png "Sample female portrait generation")
+![sample man generation](img/sample3.png "Sample man portrait generation")
+![other sample generated](img/sample2.png "Other sample generated...")
+![sample4](img/sample4.png "sample4")
+![sample5](img/sample5.png "sample5")
+![sample6](img/sample6.png "sample6")
 
 Pretty cool :smiley: !! no ?
 
