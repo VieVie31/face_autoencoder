@@ -32,4 +32,12 @@ And to get à the moment m the state of the neural network you just have to writ
 $ kill -USR1 2854
 ```
 
+##Viewing
+
+With the view_autoencoder.py you can view how the auto encoder transform random
+images into a portrait face shape...
+
+Look at this sample :
+![sample female generation](sample.png "Sample female portrait generation")
+
 For learning more about autoencoders take a look [here](https://en.wikipedia.org/wiki/Autoencoder)
