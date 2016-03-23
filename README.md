@@ -37,7 +37,12 @@ $ kill -USR1 2854
 With the view_autoencoder.py you can view how the auto encoder transform random
 images into a portrait face shape...
 
-Look at this sample :
+Look at those samples :
+
 ![sample female generation](sample.png "Sample female portrait generation")
+![sample man generation](sample3.png "Sample man portrait generation")
+![other sample generated](sample2.png "Other sample generated...")
+
+Pretty cool :smiley: !! no ?
 
 For learning more about autoencoders take a look [here](https://en.wikipedia.org/wiki/Autoencoder)
