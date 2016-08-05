@@ -16,10 +16,10 @@ from pybrain.structure.modules import SigmoidLayer, LinearLayer, SoftmaxLayer
 
 #using auto encoder
 
-AUTOENCODER_PATH = "autoencoder_100px_300faces_14587588881"
+AUTOENCODER_PATH = "autoencoder_100px_300faces_14703852923"
 
-IM_WIDTH = 10
-IM_HEIGHT = 10
+IM_WIDTH = 16
+IM_HEIGHT = 16
 IM_AREA = IM_WIDTH * IM_HEIGHT
 
 
